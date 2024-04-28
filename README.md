@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://flic.kr/p/2pN29xU" alt="int-curriculum-banner" width="100%">
+  <img src="https://www.flickr.com/photos/200636272@N08/53685680898/in/dateposted-public/" alt="int-curriculum-banner" width="100%">
 </div>
 
 ## Scope and Sequence
