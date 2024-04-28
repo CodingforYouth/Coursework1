@@ -1,11 +1,4 @@
-<div align="center">
-<img src="https://live.staticflickr.com/65535/53025922590_b1422ba225_k.jpg" alt="int-unit-1-banner" width="100%">
-</div>
-
 ## Deliverables
-
-- [Code Nation Fall Registration](https://codenation.tfaforms.net/25)
-- [Code Nation Spring Registration](https://codenation.tfaforms.net/62)
 
 --
 
