@@ -1,4 +1,4 @@
-# Lesson 1.1: Welcome to Code Nation
+# Lesson 1.1: Welcome to Coding for Youth
 
 <br>
 
