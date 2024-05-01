@@ -14,15 +14,15 @@
 <br>
 
 ## Key Points
-This lesson introduces the concept of coding, Code Nation, and the volunteers who will be teaching. 
+This lesson introduces the concept of coding, Coding for Youth, and the volunteers who will be teaching. 
 
 Note: Time will vary for these activities based on the size & timing of your class. The times listed are the minimum number of minutes needed.
 
 - 👋 Welcome & Class Norms (5) : 
-    - Students will make a name tent. Ahead of class, volunteers and PM should add a photo and info to their slide - prepare to briefly introduce themselves. Share the three Code Nation class norms.<br><br>
+    - Students will make a name tent. Ahead of class, volunteers and PM should add a photo and info to their slide - prepare to briefly introduce themselves. Share the three Coding for Youth class norms.<br><br>
 
-- 👥 Intro to Code Nation (10) : 
-    - The Program Manager will go over Code Nation, coding/web development, and why it’s important to learn to code.<br><br>
+- 👥 Intro to Coding for Youth (10) : 
+    - The Program Manager will go over Coding for Youth, coding/web development, and why it’s important to learn to code.<br><br>
 
 - 💻 Discussion & Practice (10) :
     - Engage students in a discussion about their thoughts on coding.
@@ -32,7 +32,7 @@ Note: Time will vary for these activities based on the size & timing of your cla
 
 - 📝 Exit Ticket & Class Registration (10) :
     - Instruct students to complete the Unit 1 Exit Ticket. They will submit the link for their coding activity.
-    - Guide students through filling out Code Nation's Registration form.
+    - Guide students through filling out Coding for Youth's Registration form.
     - Note: Registration does not have to happen on this day and can be moved elsewhere.
 
 - ✨Closing & Shout outs (5) :
