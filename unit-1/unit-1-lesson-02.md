@@ -5,17 +5,17 @@
 ## Lesson Materials  & Teacher Prep
 
 📖 Upload as Material in Google Classroom:
-- [Slides](https://docs.google.com/presentation/d/1EB8GVHuKhh781d5sJpM2lVhTevpDufTXjmbTydZNnM8/edit?usp=sharing) (make a copy for your program - upload the copy)
+- [Slides](https://docs.google.com/presentation/d/19b8URD2c50DDJCrjzaopa-Hyw06ucoOO3P-rU540AwY/edit#slide=id.g25545787a3d_0_205) (make a copy for your program - upload the copy)
 - [Coding Exercise(s)](https://popcode.org/?snapshot=eb99c80f-f102-4c8e-a488-64e01c30e943)
 
 📝 Upload as Assignment in Google Classroom (5 points):
-- [Exit Ticket](https://forms.gle/JcHabhDq5ZzprZcJ9)
+- [Exit Ticket](https://forms.gle/goG14R8Bn1BJFzi1A)
 
 <br>
 
 
 ## Key Points
-This lesson will introduce Google Classroom - how Code Nation utilizes it - and GitHub, which is the platform where coding exercises live. Students will set up their own account and fork a repo.
+This lesson will introduce Google Classroom - how Coding for Youth utilizes it - and GitHub, which is the platform where coding exercises live. Students will set up their own account and fork a repo.
 
 - 👋 Welcome (5) : 
     - Lead teacher chooses an activity. Make sure to spend time getting to know each other these first few weeks as it will set the stage for engagement and positive classroom culture moving forward.<br><br>
