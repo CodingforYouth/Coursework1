@@ -48,5 +48,4 @@ Students may have a limited understanding of how many aspects of their lives uti
 - Markers/pens
 - Cardstock/paper/notecards for name tents
 - [Human bingo game (to print)](https://docs.google.com/document/d/1MMugwzmYWC4JvypF5g6sAe4kNcqZ_SRWNISzntAkZx0/edit)
-- [Optional padlet for class norms](https://codenation.padlet.org/cn/nipqv2jg60n21sll)
-- [More teambuilders!](https://docs.google.com/presentation/d/1OQExI6xayhDnDzN2uUg2g9pNv68EukVfl5MKaYWPHzw/edit#slide=id.gf43128b5c6_2_747)
+- [More teambuilders!](https://docs.google.com/presentation/d/1F1j-YuwimsalaAT2-wj73PcUhd-gyQgOf5uoqLbc5m4/edit#slide=id.g2d130239298_0_728)
