@@ -5,7 +5,7 @@
 ## Lesson Materials & Teacher Prep
 
 📖 Upload as Material in Google Classroom:
-- [Slides](https://docs.google.com/presentation/d/1O9CI3EtGRvCW1Lrsmh1IA0Ibu7kYNWWmBDo6vUxdOxU/edit?usp=sharing) (make a copy for your program - upload the copy)
+- [Slides](https://docs.google.com/presentation/d/1tgwco57Ru35IZ71F_10p-Kfsq37o8In1iIrU0SAk6Q0/edit#slide=id.g2d12c53e10c_0_0) (make a copy for your program - upload the copy)
 - [Coding Exercise(s)](https://popcode.org/?snapshot=dc8e4c16-da31-41b1-beb0-7e7ba4155b90)
 
 📝 Upload as Assignment in Google Classroom (5 points):
@@ -47,6 +47,6 @@ Students may have a limited understanding of how many aspects of their lives uti
 - Notecards/Post it notes
 - Markers/pens
 - Cardstock/paper/notecards for name tents
-- [Human bingo game (to print)](https://docs.google.com/document/d/1gNvW01wSLtLrZjSp1-dRMVXfjW19pzsFuYKZV7L6tsw/edit?usp=sharing)
+- [Human bingo game (to print)](https://docs.google.com/document/d/1MMugwzmYWC4JvypF5g6sAe4kNcqZ_SRWNISzntAkZx0/edit)
 - [Optional padlet for class norms](https://codenation.padlet.org/cn/nipqv2jg60n21sll)
 - [More teambuilders!](https://docs.google.com/presentation/d/1OQExI6xayhDnDzN2uUg2g9pNv68EukVfl5MKaYWPHzw/edit#slide=id.gf43128b5c6_2_747)
