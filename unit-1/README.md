@@ -6,11 +6,11 @@
 
 ### Coders will…
 
-1. Describe what Code Nation is and why learning to code important.
-2. Understand Code Nation's purpose and mission.
+1. Describe what Coding For Youth is and why learning to code important.
+2. Understand Coding For Youth's purpose and mission.
 3. Identify the contributions people from diverse backgrounds have made to tech
 4. Describe and simulate the mindsets needed to be a successful coder
-5. Navigate Code Nation platforms
+5. Navigate Coding For Youth platforms
 6. Describe different careers in technology.
 
 ---
